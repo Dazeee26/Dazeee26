@@ -3,7 +3,7 @@ from datetime import datetime
 # kode Rincian toko
 toko_nama = "===== DAZE OUTFIT ====="
 toko_alamat = "PISANG AGUNG"
-toko_nomor_telepon = "081367*******"
+toko_nomor_telepon = "08136768*******"
 
 # Daftar menu
 daftar_menu = [
